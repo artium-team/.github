@@ -6,4 +6,5 @@
 ## 🌈 Get Involved
 
 Here are some ways you can help, make Artium a better community for teens who love programming:
-- Join one of our hackathons
+- 🧑‍💻 Join one of our hackathons 
+- 🔨 Create a whole new project in our workshop
