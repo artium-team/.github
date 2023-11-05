@@ -1,6 +1,6 @@
 ## 👋 Welcome to Artium
 
-![img (2)](https://github.com/artium-team/.github/assets/108968549/2a9ed1b8-b61c-4231-9d20-1e07ebf2adab)
+![Artium-Background](https://github.com/artium-team/.github/assets/108968549/d66314f6-0bbd-4be3-87e6-d964289f67dd)
 
 **"For teens, by teens"** is our philosophy and code, tools are not the only things we open source!
 
